@@ -1,0 +1,29 @@
+[
+    {
+        "name": "A01-501",
+        "FID": 10,
+        "color": "#3A8EED",
+        "operation": "add",
+        "length": 300,
+        "width": 150,
+        "height": 180
+    },
+    {
+        "name": "A01-502",
+        "FID": 10,
+        "color": "#68BC36",
+        "operation": "add",
+        "length": 310,
+        "width": 100,
+        "height": 160
+    },
+    {
+        "name": "B01-101",
+        "FID": 11,
+        "color": "#F26077",
+        "operation": "add",
+        "length": 210,
+        "width": 222,
+        "height": 20
+    }
+]
